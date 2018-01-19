@@ -1,7 +1,10 @@
 #USER DEFINITIONS
 from user_definition import *
 
-################################
+# this should be file_roots = ['../data/A/', '../data/B/'] for original subset where data dir
+# is at one level high in hierarchy and where data/A and data/B have all the subdirs that eventually
+# contain song .h5 files
+# I've here used a dummy root for sanity check with a sample data
 file_roots = ['../data/A/C/A']
 
 #PYTHON
