@@ -6,3 +6,4 @@ Even though scripts can be ran locally it is highly encouraged to set up an AWS 
 Here is a blog post for anyone looking for guidance, [medium post](https://towardsdatascience.com/end-to-end-distributed-ml-using-aws-emr-apache-spark-pyspark-and-mongodb-tutorial-with-4d1077f68381).
 I personally enjoyed very much working on this type and amount of data, hope you will find it interesting too!
 
+![Timbre Segments](https://github.com/KeremTurgutlu/distcomputing/blob/master/images/timbre_segments.png.png?raw=true)
